@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WEBSITE</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top-bar">
+	<h1 class="site-title">omg</h1>
+	<nav class="nav-links">
+		<a href="index.html">HOMEY</a>
+		<a href="guide.html guide">signma</a>
+		<a href="cheat.html">6767</a>
+		<a href="css.html">BINGO</a>
+		<a href="examples.html">Exampling</a>
+		<a href="demo.html">omg sgima </a>
+		<a href="contact.html">SIX SEVEN</a>
+	</nav>
+</header>
+</body>
+</html>
